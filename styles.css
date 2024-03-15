@@ -1,0 +1,26 @@
+#cuerpo {
+    font-family: Cursive; 
+    background-color: pink;
+}
+
+#tabla {
+    background-color: palevioletred;
+    color: pink;
+    margin-bottom: 10px;
+}
+
+#tabla .titulo {
+    color: black;
+}
+
+.palevioletred {
+    color: palevioletred;
+}
+
+.deeppink {
+    color: deeppink;
+}
+
+.violet {
+    color: violet;
+}
