@@ -4,6 +4,7 @@
 }
 
 #tabla {
+    font-family: fantasy;
     background-color: palevioletred;
     color: pink;
     margin-bottom: 10px;
@@ -22,7 +23,6 @@
 }
 
 #texto {
-    font-family: fantasy;
     size: 30px;
     color: darkmagenta;
 }
