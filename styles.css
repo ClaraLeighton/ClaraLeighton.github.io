@@ -1,5 +1,5 @@
 #cuerpo {
-    font-family: Cursive, Georgia; 
+    font-family: Cursive; 
     background-color: pink;
 }
 
@@ -21,6 +21,12 @@
     color: deeppink;
 }
 
-.violet {
-    color: violet;
+#texto {
+    font-family: fantasy;
+    size: 30px;
+    color: darkmagenta;
+}
+
+#boton {
+    background-color: rgb(183, 96, 183);
 }

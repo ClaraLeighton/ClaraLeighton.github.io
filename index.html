@@ -2,9 +2,10 @@
     <head>
         <title> Personal Page </title>
         <link rel = "stylesheet" href = "styles.css">
+        <script src="script.js"></script>
     </head>
     <body id = "cuerpo">
-        <h1> Clara Leighton Parot</h1>
+        <h1 class = "palevioletred"> Clara Leighton Parot</h1>
         <h2> Computer Science Engineering, Los Andes University</h2>
         <h3> 2021</h3>
         <p> Github Repository: 
@@ -50,5 +51,8 @@
             </tr>
           </table>
 
+          <p id="texto">Enter your name below!</p>
+          <input type="text" id="nombre" placeholder="Enter your name!"></input>
+          <button id = "boton" onclick="nombre()">Enter</button>
     </body>
 </html>
