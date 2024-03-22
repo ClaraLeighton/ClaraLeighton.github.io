@@ -33,3 +33,20 @@
 .container {
     margin-top: 3%;
 }
+
+.badge {
+    margin-left: 1%;
+    background-color: pink;
+    border: 1px solid deeppink;
+    color:black;
+}
+.tarjeta {
+    background-color: palevioletred;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.btn, .btn:focus, .btn:focus-visible, .btn:hover {
+    border: 1px solid deeppink;
+    background-color:pink;
+}
